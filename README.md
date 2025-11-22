@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 <h1 align="center">Hi 👋, I'm Ashutosh Jha</h1>
-<h3 align="center">A Passionate Software + Full Stack Web developer from Nepal currently Studying in India</h3>
+<h3 align="center">A Passionate Software developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thealonemusk&label=Profile%20Views&color=0e75b6&style=flat" alt="thealonemusk" /> 
@@ -24,7 +24,7 @@
 ### Want to work together?
 
 <p align="center">I
-  f you're interested in working together on a project I would love to hear from you! Whether you have a project in mind, want to collaborate, or simply have a question, feel free to reach out to me. You can mail me at ashutoshj.cs.21@nitj.ac.in  or use any of the following methods to get in touch:
+  f you're interested in working together on a project I would love to hear from you! Whether you have a project in mind, want to collaborate, or simply have a question, feel free to reach out to me. You can mail me at ashutosh.jha.cs@gmail.com  or use any of the following methods to get in touch:
 </p>
 <h3 align="center">Connect with me:</h3>
 
