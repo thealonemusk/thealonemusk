@@ -46,12 +46,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,next,react,tailwind,nodejs,rest" />
+    <img src="https://skillicons.dev/icons?i=spring,next,react,tailwind,nodejs,rest,aws" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,jenkins,docker,git,github,figma,netlify,vercel" />
+    <img src="https://skillicons.dev/icons?i=jenkins,docker,git,github,figma,vercel" />
   </a>
 </p>
 
