@@ -46,16 +46,16 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,next,react,tailwind,nodejs,rest,aws" />
+    <img src="https://skillicons.dev/icons?i=spring,next,react,tailwind,nodejs,rest" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins,docker,git,github,figma,vercel" />
+    <img src="https://skillicons.dev/icons?i=aws,jenkins,docker,git,github,figma,vercel" />
   </a>
 </p>
 
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 
