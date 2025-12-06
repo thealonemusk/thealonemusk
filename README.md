@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 <h1 align="center">Hi 👋, I'm Ashutosh Jha</h1>
-<h3 align="center">A Passionate Software developer</h3>
+<h3 align="center">Currently a Software developer for Paytm</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thealonemusk&label=Profile%20Views&color=0e75b6&style=flat" alt="thealonemusk" /> 
@@ -41,12 +41,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,python,solidity" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,python,java" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,express,next,react,tailwind,nodejs,bootstrap,rest" />
+    <img src="https://skillicons.dev/icons?i=spring,next,react,tailwind,nodejs,rest" />
   </a>
 </p>
 <p align="center">
