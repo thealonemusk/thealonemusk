@@ -33,11 +33,36 @@
 
 ## Selected projects
 
+**AI & developer tooling**
+
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
-| **[OktaDB](https://github.com/thealonemusk/OktaDB)** | A relational database engine from scratch — custom storage engine, page-based persistence, B-Tree indexing for O(log n) ops, and a SQL-like executor with predicate filtering. No external libraries. | `C` `B-Tree` `File Systems` |
-| **[ThrottleX](https://github.com/thealonemusk/ThrottleX)** | A rate-limiting microservice implementing Token Bucket and Sliding Window, with REST APIs built for high-throughput, low-latency use and live observability of token state. | `Java` `Spring Boot` `MySQL` `Docker` |
-| **[Push2Prod](https://github.com/thealonemusk/Push2Prod)** | A Git-to-cloud deployment platform — Redis-backed task queues coordinating concurrent deploys across EC2, EKS and S3, wired to GitHub Actions CI/CD. | `Node.js` `AWS` `Docker` |
+| **[SysMCP](https://github.com/thealonemusk/SysMCP)** | An MCP server exposing real Linux production-debugging primitives — `perf`, `strace`, `/proc`, flamegraphs, eBPF — as safe, agent-callable tools, so an agent can diagnose *why a service is slow* instead of guessing from logs. | `Python` `MCP` `eBPF` |
+| **[DriftBench](https://github.com/thealonemusk/DriftBench)** | Runs an agent through 30 sequential tickets against one growing codebase to measure context drift. Finding: retrieval recall falls **90% → 25%** across the run, and task success follows it down. | `Python` |
+| **[Helix](https://github.com/thealonemusk/Helix)** | A multi-agent orchestration framework. | `Rust` |
+| **[AI-CLI](https://github.com/thealonemusk/AI-CLI)** | Converts natural language into safe bash commands, with validation, sanitisation and a confirm-before-run safe mode. | `Python` |
+| **[TempoApply](https://github.com/thealonemusk/TempoApply)** | Job-hunting agent: scrapes LinkedIn/Indeed/Naukri, scores roles for fit, tailors a LaTeX resume per job and drafts outreach. | `Python` `Gemini` |
+| **[Memory Doctor](https://github.com/thealonemusk/mem_doc_agent)** | AI static analysis for embedded C (FreeRTOS) — tree-sitter AST extraction isolates allocation and IPC-queue code, tracking pointers as they escape into RTOS queues, then an LLM catches leaks traditional analyzers miss. | `Python` `tree-sitter` |
+
+**Systems & infrastructure**
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **[OktaDB](https://github.com/thealonemusk/OktaDB)** | A relational database engine from scratch — custom storage engine, page-based persistence, B-Tree indexing for O(log n) ops, and a SQL-like executor with predicate filtering. No external libraries. | `C` |
+| **[ThrottleX](https://github.com/thealonemusk/ThrottleX)** | Rate-limiting microservice implementing Token Bucket and Sliding Window, with REST APIs built for high-throughput use and live observability of token state. | `Java` `Spring Boot` `MySQL` `Docker` |
+| **[Push2Prod](https://github.com/thealonemusk/Push2Prod)** · [live](https://push2-prod.vercel.app) | Git-to-cloud deployment platform — Redis-backed task queues coordinating concurrent deploys across EC2, EKS and S3, wired to GitHub Actions. | `Node.js` `AWS` `Docker` |
+| **[QuantCraft](https://github.com/thealonemusk/QuantCraft)** | Modular backtesting engine in modern C++17: data-loader → strategy → execution → portfolio, with mean-reversion and momentum strategies. | `C++17` |
+| **[Encryption-Library-in-C](https://github.com/thealonemusk/Encryption-Library-in-C)** | A small RC4 encryption library written in C. | `C` |
+
+**Applications & ML**
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **[LD-Net](https://github.com/thealonemusk/LD-Net-Lightweight-Dehazing-Network)** ⭐6 | Deep-learning image/video dehazing — a PyTorch autoencoder served to a React front end through a Flask API. | `PyTorch` `CNN` `Flask` |
+| **[eresource](https://github.com/thealonemusk/eresource)** ⭐3 | Decentralized energy-trading application. | `TypeScript` |
+| **[SecureKey](https://github.com/thealonemusk/SecureKey)** | React Native password manager with encrypted storage and offline access. | `React Native` `MongoDB` |
+
+<p align="center"><i><a href="https://github.com/thealonemusk?tab=repositories">…and 62 more repos</a></i></p>
 
 ---
 
