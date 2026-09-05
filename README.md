@@ -1,78 +1,89 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
-<h1 align="center">Hi 👋, I'm Ashutosh Jha</h1>
-<h3 align="center">Currently a Software developer for Paytm</h3>
+<h1 align="center">Ashutosh Jha</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thealonemusk&label=Profile%20Views&color=0e75b6&style=flat" alt="thealonemusk" /> 
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/thealonemusk">
-  <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/thealonemusk">
-</p>
-
-<div align="center">
-</br>
-</div>
-
-<p align="center">
-  <a href="https://github.com/thealonemusk?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=thealonemusk&theme=onestar&no-frame=true&column=3&row=2"  width="50%" alt="@thealonemusk's trophy stats"/></a>
-</p>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
-
-### Want to work together?
-
-<p align="center">I
-  f you're interested in working together on a project I would love to hear from you! Whether you have a project in mind, want to collaborate, or simply have a question, feel free to reach out to me. You can mail me at ashutosh.jha.cs@gmail.com  or use any of the following methods to get in touch:
-</p>
-<h3 align="center">Connect with me:</h3>
-
-<p align="center">
-  <a href="https://twitter.com/thealonemusk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thealonemusk" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/thealonemusk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thealonemusk" height="30" width="40" /></a>
-  <a href="https://instagram.com/thealonemusk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thealonemusk" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/thealonemusk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thealonemusk" height="30" width="40" /></a>
-</p>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,python,java" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,next,react,tailwind,nodejs,rest" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,jenkins,docker,git,github,figma,vercel" />
-  </a>
+  <b>Software Engineer @ Paytm</b> &nbsp;·&nbsp; Noida, India<br/>
+  I build distributed backend systems for IoT payment devices — real-time pipelines,<br/>
+  low-latency audio, and the occasional database written from scratch in C.
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thealonemusk&theme=gotham&hide_border=false&include_all_commits=false&count_private=false">
+  <a href="https://thealonemusk.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-thealonemusk.vercel.app-E35342?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/thealonemusk"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-thealonemusk-17120E?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ashutosh.jha.cs@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-say%20hello-83B918?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=thealonemusk&label=Profile%20views&color=E35342&style=flat-square"/>
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/thealonemusk?style=flat-square&color=E35342&labelColor=17120E"/>
+</p>
+
+---
+
+## What I'm working on
+
+**Paytm Soundbox** — the little speaker that announces payments at millions of Indian shopfronts.
+
+- Distributed backend services supporting real-time transaction processing across **12+ device variants** in India and Indonesia
+- Real-time **MQTT pub/sub pipelines** for RTOS devices, delivering sub-second events across the fleet
+- A low-latency audio pipeline for **AI Soundbox** — phase-wise chunking, Base64 PCM buffering, a 10K-entry prefetch buffer, replacing the old AMR/MP3 path
+- Root CA validation and rotation for secure device authentication at fleet scale
+- An **agentic AI development pipeline** — architect, developer, reviewer and validator agents running from a single Jira ticket through to deployment, cutting planning-to-deploy from 2 weeks to 4 days
+
+---
+
+## Selected projects
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **[OktaDB](https://github.com/thealonemusk/OktaDB)** | A relational database engine from scratch — custom storage engine, page-based persistence, B-Tree indexing for O(log n) ops, and a SQL-like executor with predicate filtering. No external libraries. | `C` `B-Tree` `File Systems` |
+| **[ThrottleX](https://github.com/thealonemusk/ThrottleX)** | A rate-limiting microservice implementing Token Bucket and Sliding Window, with REST APIs built for high-throughput, low-latency use and live observability of token state. | `Java` `Spring Boot` `MySQL` `Docker` |
+| **[Push2Prod](https://github.com/thealonemusk/Push2Prod)** | A Git-to-cloud deployment platform — Redis-backed task queues coordinating concurrent deploys across EC2, EKS and S3, wired to GitHub Actions CI/CD. | `Node.js` `AWS` `Docker` |
+
+---
+
+## Toolbox
+
+<p align="center"><img alt="Languages" src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" /></p>
+<p align="center"><img alt="Backend and data" src="https://skillicons.dev/icons?i=spring,nodejs,mysql,postgres,redis" /></p>
+<p align="center"><img alt="Cloud and tooling" src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,jenkins,git,linux" /></p>
+<p align="center"><img alt="Frontend" src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /></p>
+
+---
+
+## A few things I'm proud of
+
+- 🏅 **Codeforces Expert** — rating 1676 · [profile](https://codeforces.com/profile/thealonemusk)
+- 🌍 **Global Rank 109** of 40,000+ in Educational Codeforces Round 186 (Div. 2)
+- 🧩 **1200+ problems** solved across LeetCode, Codeforces and GeeksforGeeks · LeetCode rating 1669
+- 🚀 **Smart India Hackathon 2023** — National Finalist among 1M+ participants
+- 🎓 **B.Tech CSE**, NIT Jalandhar
+
+---
+
+## Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thealonemusk&theme=gotham&hide_border=false">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=thealonemusk&hide_border=true&background=00000000&stroke=E35342&ring=E35342&fire=83B918&currStreakLabel=E35342&sideLabels=C9C4BE&dates=8A7E70&currStreakNum=FFFBF5&sideNums=FFFBF5"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=thealonemusk&hide_border=true&background=00000000&stroke=E35342&ring=E35342&fire=83B918&currStreakLabel=E35342&sideLabels=4A423A&dates=8A7E70&currStreakNum=17120E&sideNums=17120E"/>
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=thealonemusk&hide_border=true"/>
+  </picture>
 </p>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
-
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealonemusk&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <b>Want to build something together?</b><br/>
+  Whether you have a project in mind, want to collaborate, or just have a question —<br/>
+  reach me at <a href="mailto:ashutosh.jha.cs@gmail.com">ashutosh.jha.cs@gmail.com</a> or book time at <a href="https://cal.com/thealonemusk">cal.com/thealonemusk</a>.
+</p>
+
+<p align="center">
+  <a href="https://github.com/thealonemusk"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-17120E?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/thealonemusk"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-17120E?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/thealonemusk"><img alt="X" src="https://img.shields.io/badge/X-17120E?style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="https://www.leetcode.com/thealonemusk"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-17120E?style=flat-square&logo=leetcode&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/thealonemusk"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-17120E?style=flat-square&logo=codeforces&logoColor=white"/></a>
+  <a href="https://instagram.com/thealonemusk"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-17120E?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
